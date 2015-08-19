@@ -1,7 +1,7 @@
 :m - Prelude
 :m + GOA
 :set prompt "λ: "
-setLambdabotHome "/Users/umerazad/bin"
+setLambdabotHome "/home/umer/bin"
 
 :def bs        lambdabot "botsnack"
 :def pl        lambdabot "pl"

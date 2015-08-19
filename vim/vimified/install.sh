@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/local/bin/zsh
 
 create_symlinks () {
     if [ ! -f ~/.vim ]; then
